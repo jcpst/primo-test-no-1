@@ -1,2 +1,1 @@
-# primo-test-no-1
-Exploring the fucntionality provided by primo.af
+# Built with [primo](https://primo.so)
